@@ -5,7 +5,8 @@
 * Use file_path_defination.json as a input.
 * Input Instructions -
 
-    '''{
+    ''' json
+    {
         "source_path": "Directory path from where you want to perform the moving process",
         "destination_path": {
             "lable": {
